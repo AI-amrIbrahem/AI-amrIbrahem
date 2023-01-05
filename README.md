@@ -73,7 +73,5 @@ I had a lot of Mobile Applications in play store and app store.
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
     <a href="https://www.linkedin.com/in/amr-ibrahem-2088a8136/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-    <a href="https://github.com/AI-amrIbrahem" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p> 
 </p>
